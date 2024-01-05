@@ -1,4 +1,3 @@
-// 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
 
 import Link from "next/link";
 import classes from './page.module.css'
